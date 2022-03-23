@@ -16,6 +16,8 @@
   },
   "dependencies": {
     "gsap": "^3.6.0",
-    "three": "^0.125.2"
+    "source-map-url": "^0.4.1",
+    "three": "^0.125.2",
+    "urix": "^0.1.0"
   }
 }
